@@ -1,0 +1,90 @@
+     <!--pagination-->
+     <div class="pagination mb50 mb40-tb">
+      <a class="active item" href="#?page_p=1">1</a>
+      <a class="item" href="#?page_p=2">2</a>
+      <a class="item" href="#?page_p=3">3</a>
+    </div>
+    <!--//pagination-->
+
+    <!--サブ切り替えタグ-->
+    <div class="sub-tab-box mb100 mb60-tb">
+      <ul class="sub-tab-list show">
+        <li><a data-href="#tab01">タブ</a></li>
+        <li><a data-href="#tab02">タブ</a></li>
+        <li><a data-href="#tab03">タブが入ります。タブが入ります。タブが入ります</a></li>
+      </ul>
+      <div id="tab01">タブ１内容</div>
+      <div id="tab02">タブ２内容</div>
+      <div id="tab03">タブ3内容</div>
+    </div>
+    <!--//サブ切り替えタグ-->
+
+    <!--アンカーリンク-->
+    <div class="anchor-box mb100 mb50-tb">
+      <p class="ttl"><span>ページ内のコンテンツ一覧</span></p>
+      <ul class="anchor-link">
+        <li><a href="#link01">ページ内リンク</a></li>
+        <li><a href="#link02">ページ内リンク</a></li>
+      </ul>
+    </div>
+    <!--//アンカーリンク-->
+
+    <ul class="dot-list mb30 mb20-tb">
+      <li>リスト</li>
+      <li>リスト</li>
+      <li>リスト</li>
+    </ul>
+
+    <ol class="num-list mb60 mb40-tb">
+      <li>リスト</li>
+      <li>リスト</li>
+      <li>リスト</li>
+    </ol>
+    <!--PDFリンク-->
+    <div class="mb60 mb50-tb"><a href="#" class="pdf-file" target="_blank">PDFリストが入ります。</a> </div>
+    <!--//PDFリンク-->
+
+    <!--外部りんく-->
+    <div class="mb100 mb60-tb"><a href="#" class="out-link" target="_blank">外部リンクが入ります。</a> </div>
+    <!--//外部りんく-->
+
+    <!--TABLE-->
+    <div class="js-scrollable">
+      <table class="table02 -scoll mb60 mb40-tb">
+        <thead>
+          <tr>
+            <th style="width: 150px;">テーブル02</th>
+            <th style="width: 395px;">テーブル02</th>
+            <th>テーブル02</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th>テーブル02</th>
+            <td>Scollできる</td>
+            <td>テーブル02</td>
+          </tr>
+          <tr>
+            <th>テーブル02</th>
+            <td>Scollできる</td>
+            <td>テーブル02</td>
+          </tr>
+          <tr>
+            <th>テーブル02</th>
+            <td>Scollできる</td>
+            <td>テーブル02</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="wrap-box mb40 mb30-tb">
+      <p>
+        Box01文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。
+      </p>
+    </div>
+    <div class="wrap-box -gray">
+      <p>
+        Box01文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。文章が入ります。
+      </p>
+    </div>
